@@ -2,8 +2,6 @@ Praktika e Parë në Git
 
 Ky është hapi i parë i praktikës time në Git dhe GitHub.
 
-Ky është një ushtrim praktik për të mësuar përdorimin e Git dhe GitHub dhe për të kuptuar më mirë menaxhimin e versioneve.
-
 Gjatë kësaj praktike do të mësoj konceptet bazë të Git-it, si krijimi i një repository, ruajtja e ndryshimeve, përdorimi i commit-eve dhe menaxhimi i versioneve të projektit.
 
 Qëllimi
