@@ -17,4 +17,4 @@ Publikimin e projektit në GitHub.
 Menaxhimin e versioneve të projektit.
 
 Ky repository do të përdoret për të dokumentuar hapat dhe ushtrimet e praktikës në Git.
-Në hapat e ardhshëm do të praktikoj më shumë komanda dhe mënyra të ndryshme të përdorimit të Git-it
+Në hapat e ardhshëm do të praktikoj më shumë komanda dhe mënyra të ndryshme të përdorimit të Git-it.
